@@ -91,3 +91,4 @@
 ::ffff:127.0.0.1 - GET /favicon.ico HTTP/1.1 404 150 - 5.243 ms
 ::ffff:127.0.0.1 - GET /mafiaNews/title/viaggio HTTP/1.1 200 1016 - 610.495 ms
 ::ffff:127.0.0.1 - GET /mafiaNews/title/studente HTTP/1.1 200 1815 - 610.414 ms
+::ffff:127.0.0.1 - GET /mafiaNews/title/Palermo HTTP/1.1 200 857 - 852.994 ms
